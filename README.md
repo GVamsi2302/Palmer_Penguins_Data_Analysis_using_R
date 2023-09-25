@@ -6,6 +6,8 @@ This repository contains a data analysis project on the Palmer Penguins dataset.
 # Objective
 The objective of this analysis is to visually explore the Palmer Penguins dataset using R and the ggplot2 package. The focus is on understanding the relationship between flipper length, body mass, species, and sex among the penguins in the dataset.
 
+Kaggle Notebook Link: <https://www.kaggle.com/code/gvamsi1999/correlation-between-flipper-length-and-body-mass>
+
 # About Dataset
 Original dataset: <https://github.com/allisonhorst/palmerpenguins>
 
